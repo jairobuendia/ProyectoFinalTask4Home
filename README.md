@@ -10,7 +10,7 @@ _Una aplicación que consiste en gestionar tareas domésticas y al realizarlas c
 
 ### Estructura 📋
 
-_Aplicación desarrollada en Android_
+_Aplicación Android_
 
 ![image](https://user-images.githubusercontent.com/55530657/161503483-7ed9a8f7-ed9f-4b15-b108-1555d296f822.png)
 
