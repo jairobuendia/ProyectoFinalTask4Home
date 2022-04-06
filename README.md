@@ -34,19 +34,19 @@ _--Usuarios--_
 ![image](https://user-images.githubusercontent.com/55530657/145399681-515f7107-74a3-44c6-a716-073d0f1335b9.png)
 ![image](https://user-images.githubusercontent.com/55530657/145399764-f3cbeb16-34ec-4f06-9057-5a26719409c3.png)
 
-En está pantalla se muestra los usuarios que pertenecen al grupo en el que estás.<br>
+En esta pantalla se muestra los usuarios que pertenecen al grupo en el que estás.<br>
 El administrador es el único que podra añadir o eliminar usuarios al grupo.
 
 _--Tareas--_
 
 ![image](https://user-images.githubusercontent.com/55530657/145399863-d879a022-45b4-461d-ba98-75f91c5bc09c.png)
 
-En está pantalla se muestra las tareas que hay que realizar.<br>
+En esta pantalla se muestra las tareas que hay que realizar.<br>
 El administrador es el único que podra añadir, modificar o eliminar tareas.
 
 _--Premios--_
 
 ![image](https://user-images.githubusercontent.com/55530657/145400030-564d4462-9737-424a-b5cd-098d17144a43.png)
 
-En está pantalla se muestra los premios disponibles para canjear.<br>
+En esta pantalla se muestra los premios disponibles para canjear.<br>
 El administrador es el único que podra añadir, modificar o eliminar premios.
