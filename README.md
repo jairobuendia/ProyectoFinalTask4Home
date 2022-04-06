@@ -3,7 +3,7 @@
 
 ### ¿Qué es Task4Home? 📋
 
-_Una aplicación que consiste en gestionar tareas domésticas y al realizarlas consigues unos puntos que son canjeables por premios, todo esto en un grupo de usuarios que conviven en la misma casa o trabajo, el objetivo final de la aplicación es que se realizen de forma ordenada las tareas que son obligatorias pero a nadie le gusta hacer._
+Una aplicación que consiste en gestionar tareas domésticas y al realizarlas consigues unos puntos que son canjeables por premios, todo esto en un grupo de usuarios que conviven en la misma casa o trabajo, el objetivo final de la aplicación es que se realizen de forma ordenada las tareas que son obligatorias pero a nadie le gusta hacer.
 
 <p align="center">##Esto es una maquetación realizada en IONIC de la aplicación, puede someterse a cambios considerables de diseño y funcionabilidad##</p>
 
@@ -11,6 +11,7 @@ _Una aplicación que consiste en gestionar tareas domésticas y al realizarlas c
 ### Estructura 📋
 
 _Aplicación Android_
+- Base de datos en la nube (FIRESTORE)
 
 ![image](https://user-images.githubusercontent.com/55530657/161503483-7ed9a8f7-ed9f-4b15-b108-1555d296f822.png)
 
