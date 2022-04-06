@@ -14,6 +14,8 @@ _Aplicación Android_
 - Base de datos en la nube (FIRESTORE)
 
 ![image](https://user-images.githubusercontent.com/55530657/161503483-7ed9a8f7-ed9f-4b15-b108-1555d296f822.png)
+![image](https://user-images.githubusercontent.com/55530657/162010657-0b980e6b-f53d-458e-961b-890659c68f74.png)
+
 
 ### Funcionamiento🔧
 
