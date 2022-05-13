@@ -18,6 +18,9 @@ _Aplicación Android_
 
 ### Funcionamiento🔧
 
-_--Login y Register--_
+_--[Video explicativo]()--_
 
 
+### APK ###
+
+[APK]()
