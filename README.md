@@ -18,7 +18,7 @@ _Aplicación Android_
 
 ### Funcionamiento🔧
 
-_--[Video explicativo]()--_
+_--[Video explicativo](https://www.youtube.com/watch?v=HCuQZaJhdMQ&ab_channel=BruceCSGO)--_
 
 
 ### APK ###
