@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Task4Home</string>
+    <string name="email_text">Email</string>
+    <string name="password_text">Password</string>
+    <string name="login_text">Login</string>
+    <string name="singup_text">Sing Up</string>
+    <string name="task_Text">Tasks</string>
+    <string name="user_Text">Users</string>
+    <string name="edit_text">Edit</string>
+    <string name="delete_text">Delete</string>
+    <string name="create_Task">Create Task</string>
+    <string name="name_text">Name</string>
+    <string name="points_text">Points</string>
+    <string name="stars_Text">Stars</string>
+    <string name="guardar_Tarea">Save</string>
+    <string name="cancelar_tarea">Cancel</string>
+    <string name="lastname_text">Last name</string>
+    <string name="username_text">Username</string>
+    <string name="register_text">Register</string>
+    <string name="logout_text">Log out</string>
+</resources>
