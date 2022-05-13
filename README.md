@@ -14,7 +14,7 @@ _Aplicación Android_
 - Base de datos en la nube (FIRESTORE)
 
 <img height="52px" src="ReadmeImages/logo-kotlin.png">
-<img height="52px" src="accenture>-woBG.png">
+<img height="52px" src="ReadmeImages/esquemabasededatos.png">
 
 ### Funcionamiento🔧
 
