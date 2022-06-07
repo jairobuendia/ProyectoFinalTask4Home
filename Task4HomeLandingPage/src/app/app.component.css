@@ -185,6 +185,7 @@ header {
     display: flex;
     justify-content: center;
     width: 80%;
+    max-width: 1280px;
     margin: auto;
     border-radius: 30px;
     
@@ -202,6 +203,8 @@ header {
 .mitad-video{
     display: flex;
     padding: 50px;
+    max-width: 1280px;
+    margin: auto;
 
 }
 
@@ -245,11 +248,12 @@ iframe{
 
 /*** Estilo sobre mi ***/
 .foto-avatar{
-    width:500px;
+    width:300px;
     /* float: right;
     margin: auto;
     margin-right: 0;  */
 }
+
 
 @media screen and (max-width:500px){
     .foto-avatar{
@@ -290,8 +294,8 @@ iframe{
     background-image: url(../assets/img/post-it.png);
     background-position: center;
     background-repeat: no-repeat;
-    width: 600px;
-    height: 650px;
+    width: 300px;
+    height: 350px;
     margin: auto;
 }
 

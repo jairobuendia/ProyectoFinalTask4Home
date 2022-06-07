@@ -9,8 +9,9 @@ import { AfterViewInit, Component, HostListener, OnInit, ViewChild } from '@angu
 export class DrawComponent implements OnInit, AfterViewInit {
   @ViewChild('canvasRef', { static: false }) canvasRef: any
 
-  public width = 455;
-  public height = 450;
+  public width = 280;
+  public height = 278;
+
 
   private cx!: CanvasRenderingContext2D;
 

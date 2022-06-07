@@ -1,11 +1,11 @@
 canvas{
     /* border: 3px solid red; */
     /* border-radius: 7px; */
-    width: 455px;
-    height: 455px;
-    margin-top: 96px;
+    width: 280px;
+    height: 278px;
+    margin-top: 35px;
     margin-left: 5px;
-    transform: rotate(-3deg);
+    transform: rotate(-2.5deg);
     z-index: 0;
 }
 
