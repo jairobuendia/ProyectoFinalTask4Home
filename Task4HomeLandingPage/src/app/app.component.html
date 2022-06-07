@@ -1,0 +1,94 @@
+<div id="wrapper">
+    <header>
+    </header>
+    <nav>
+        <div class="topnav" id="myTopnav">
+            <a href="#inicio">
+                <mat-icon aria-hidden="false" aria-label="Home icon">home</mat-icon>
+            </a>
+            <a href="#inicio">Inicio</a>
+            <a href="#quees">¿Qué es?</a>
+            <a href="#maquetacion">Maquetación</a>
+            <a href="#sobremi">Sobre mi</a>
+            <a href="javascript:void(0);" class="icon" (click)="myFunction()">
+                <mat-icon>list</mat-icon>
+            </a>
+        </div>
+    </nav>
+
+    <section id="inicio" class="cuadro-imagen">
+        <div id="background">
+        </div>
+    </section>
+
+    <section id="quees">
+        <div class="titulo">
+            <h1 class="top">¿QUÉ <span>ES?</span></h1>
+        </div>
+        <div class="cuadro-texto">
+            <ul class="texto-descripcion">
+                <li>Es una aplicación que consiste en gestionar tareas domésticas dentro de un grupo de usuarios creados
+                    por el administrador que normalmente conviven en la misma vivienda.</li>
+                <li>Al realizar las diferentes tareas obtendras unos puntos dependiendo de la complejidad de la tarea,
+                    con estos puntos podrás reclamar diferentes premios puestos por el administrador del grupo.</li>
+                <li> El objetivo final de la aplicación es que se realizen de forma ordenada las tareas que son
+                    necesarias realizarlas dentro de la misma vivienda pero a nadie le gusta hacer.</li>
+            </ul>
+        </div>
+    </section>
+    <section id="maquetacion">
+        <div class="titulo">
+            <h1 class="top">MAQUE<span>TACIÓN</span></h1>
+        </div>
+        <div class="mitad-video">
+            <iframe src="https://www.youtube.com/embed/HCuQZaJhdMQ" title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
+            <img class="imagen-flechas" src="../assets/img/flecha.png">
+            <iframe src="https://www.youtube.com/embed/HCuQZaJhdMQ" title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
+        </div>
+    </section>
+
+    <section id="sobremi">
+        <div class="titulo">
+            <h1 class="top">SOBRE <span>MI</span></h1>
+        </div>
+        <div class="mitad-video">
+            <div class="postit-cuadro">
+                <app-draw class="appdraw"></app-draw>
+            </div>
+            <a class="imagen-repo" href="https://github.com/jairobuendia/ProyectoFinalTask4Home" target="_blank"><img
+                    src="../assets/img/github-repo.png"></a>
+            <div class="cuadro-avatar">
+                <img class="foto-avatar" src="../assets/img/miavatar.png">
+                <div class="icono-avatar">
+                    <a href="https://github.com/jairobuendia" target="_blank"><img
+                            src="../assets/img/GitHub-Mark-Light-64px.png">
+                    </a>
+                    <a href="https://www.linkedin.com/in/jairobuendia/" target="_blank"><img class="icono-linked"
+                        src="../assets/img/linkedin-icon-64.png">
+                    </a>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+    <section id="descargar">
+        <div class="titulo">
+            <h1 class="top">DESCARGAR <span>APK</span></h1>
+            <a href="https://github.com/jairobuendia/ProyectoFinalTask4Home/blob/main/Task4Home-v1/app/app-debug.apk"
+                target="_blank" (click)="playSound()">
+                <mat-icon class="boton-descarga" aria-hidden="false" aria-label="Download button">cloud_download
+                </mat-icon>
+            </a>
+        </div>
+    </section>
+
+    <footer>
+        <p>©2022 TASK4HOMELANDING.ES All Rights Reserved.<br>
+            IES Campanillas</p>
+    </footer>
+</div>

@@ -1,0 +1,18 @@
+canvas{
+    /* border: 3px solid red; */
+    /* border-radius: 7px; */
+    width: 455px;
+    height: 455px;
+    margin-top: 96px;
+    margin-left: 5px;
+    transform: rotate(-3deg);
+    z-index: 0;
+}
+
+@media screen and (max-width:500px){
+    canvas{
+        width: 0px;
+        height: 0px;
+    }
+
+}
