@@ -30,8 +30,8 @@ Una aplicación realizada en Android/Kotlin que consiste en gestionar tareas dom
 <br>
 <h3>Tareas del grupo y creación de tareas</h3>
 <div style="flex">
-    <img height="500px" src="ReadmeImages/s7.png">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="500px" src="ReadmeImages/s6.png">
+    <img height="500px" src="ReadmeImages/s6.png">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="500px" src="ReadmeImages/s7.png">
 </div>
 <br>
 <h3>Editar tarea</h3>
