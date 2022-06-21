@@ -63,8 +63,11 @@ Una aplicación realizada en Android/Kotlin que consiste en gestionar tareas dom
 <br>
 ## :mag_right: &nbsp;Otros repositorios
 DI - [Figma Escritorio]
+<br>
 DI - [Figma Móvil]
+<br>
 HLC/DI - [Landing Page en Angular]
+<br>
 SGE - [Programa Python]
 
 
