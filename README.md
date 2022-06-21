@@ -12,9 +12,8 @@ Una aplicación realizada en Android/Kotlin que consiste en gestionar tareas dom
 
 
 
-### Funcionamiento🔧
-
-_--[Video explicativo](https://www.youtube.com/watch?v=HCuQZaJhdMQ&ab_channel=BruceCSGO)--_
+## 🔧 &nbsp;Funcionamiento
+<img height="35px" src="ReadmeImages/s1.png">
 
 
 ### APK ###
