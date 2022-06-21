@@ -1,4 +1,6 @@
-<h3 align="center">Task4Home</h3>
+<p align="center">
+    <img src="ReadmeImages/logo.png" alt="Master">
+</p>
 
 
 ### ¿Qué es Task4Home? 📋
