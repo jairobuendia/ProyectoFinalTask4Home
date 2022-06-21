@@ -58,7 +58,7 @@ Una aplicación realizada en Android/Kotlin que consiste en gestionar tareas dom
 :point_right:&nbsp;[StackOverlow](https://stackoverflow.com/)
 <br>
 ## :movie_camera: &nbsp;Vídeo explicativo
-![<img height="35px" src="https://user-images.githubusercontent.com/55530657/174786115-5b75b9ee-4b2a-4d56-b9ec-4a0a525daa70.png">](https://youtu.be/HCuQZaJhdMQ)
+[<img height="35px" src="https://user-images.githubusercontent.com/55530657/174786115-5b75b9ee-4b2a-4d56-b9ec-4a0a525daa70.png">](https://youtu.be/HCuQZaJhdMQ)
 
 
 
