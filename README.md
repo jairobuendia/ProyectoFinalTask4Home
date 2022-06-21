@@ -13,6 +13,7 @@ Una aplicación realizada en Android/Kotlin que consiste en gestionar tareas dom
 
 
 ## 🔧 &nbsp;Funcionamiento
+<h3>Inicio y login</h3>
 <img height="35px" src="ReadmeImages/s1.png">
 
 
