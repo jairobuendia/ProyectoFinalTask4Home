@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Task4Home</string>
+    <string name="email_text">Email</string>
+    <string name="groupname_text">Group Name</string>
+    <string name="groupusers_text">Add Users</string>
+    <string name="password_text">Password</string>
+    <string name="login_text">Login</string>
+    <string name="singup_text">Create account</string>
+    <string name="task_Text">Tasks</string>
+    <string name="user_Text">Users</string>
+    <string name="edit_text">Edit</string>
+    <string name="delete_text">Delete</string>
+    <string name="create_Task">Create Task</string>
+    <string name="create_Group">Create Group</string>
+    <string name="name_text">Full Name</string>
+    <string name="points_text">Points</string>
+    <string name="stars_Text">Stars</string>
+    <string name="guardar_Tarea">Save</string>
+    <string name="cancelar_tarea">Cancel</string>
+    <string name="lastname_text">Last name</string>
+    <string name="username_text">Username</string>
+    <string name="register_text">Register</string>
+    <string name="logout_text">Log out</string>
+    <string name="photo_text">Take Photo</string>
+    <string name="create_text">Create Group</string>
+    <string name="joingroup_text">Join Group</string>
+    <string name="prize_text">Prizes</string>
+    <string name="comming_soon_Text">COMING SOON...</string>
+    <string name="task_name">Name</string>
+    <string name="task_star">Star</string>
+    <string name="task_point">Point</string>
+    <string name="edittask_Text">Save Task</string>
+    <string name="edittask_Tittle">Edit Task</string>
+
+
+    <!-- Cadenas de texto largas -->
+    <string name="register_correctly">Register correctly, use your credentials to login</string>
+    <string name="wrong_email_password">Email or password incorrect, try again!</string>
+    <string name="singup_failed">Sign up failed, try again!</string>
+    <string name="failedregister">Failed to register, this email is already used!</string>
+    <string name="failedregister_fields">Failed to register, all fields are required!</string>
+    <string name="passwordregister">Password must be 6 characters minimum</string>
+    <string name="useroffGroup">This user is not in any group, contact the admin or create a group</string>
+    <string name="useronGroup">This user is in a group, press "Join Group" to continue</string>
+    <string name="minimunGroup">Cannot create groups of 1 person</string>
+    <string name="nameGroup">Cannot create group without name</string>
+    <string name="select_from">Select from</string>
+    <string name="selectImageWarn">Please, select a image</string>
+    <string name="creatingUser">Creating user, dont touch nothing... </string>
+    <string name="onlyAdminCan">Only group admin can create tasks...</string>
+    <string name="taskCreateFail">Can not create a task with any field in blank, try again!!</string>
+    <string name="taskCreateSucces">New task uploaded successfully</string>
+    <string name="deleteTask">Task deleted successfully</string>
+    <string name="taskEditFail">Can not edit a task with any field in blank, try again!!</string>
+    <string name="taskCreateNegative">Can not create a task with negatives values</string>
+
+    <string name="prefs_file" translatable="false">com.example.task4home.PREFERENCE_FILE_KEY</string>
+</resources>
