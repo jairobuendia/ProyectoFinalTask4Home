@@ -13,10 +13,32 @@ Una aplicación realizada en Android/Kotlin que consiste en gestionar tareas dom
 
 
 ## 🔧 &nbsp;Funcionamiento
-<h3>Inicio y login</h3>
-<img height="35px" src="ReadmeImages/s1.png">
+<h3>Login y register</h3>
+<div style="flex">
+    <img height="500px" src="ReadmeImages/s1.png">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="500px" src="ReadmeImages/s2.png">
+</div>
+<br>
+<h3>Página principal y creación de grupo</h3>
+<div style="flex">
+    <img height="500px" src="ReadmeImages/s3.png">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="500px" src="ReadmeImages/s4.png">
+</div>
+<br>
+<h3>Usuarios del grupo</h3>
+<img height="500px" src="ReadmeImages/s5.png">
+<br>
+<h3>Tareas del grupo y creación de tareas</h3>
+<div style="flex">
+    <img height="500px" src="ReadmeImages/s7.png">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="500px" src="ReadmeImages/s6.png">
+</div>
+<br>
+<h3>Editar tarea</h3>
+<div style="flex">
+    <img height="500px" src="ReadmeImages/s8.png">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="500px" src="ReadmeImages/s9.png">
+</div>
 
-
-### APK ###
-
-[APK](https://github.com/jairobuendia/ProyectoFinalTask4Home/blob/main/Task4Home-v1/app/app-debug.apk)
+## :exclamation: &nbsp;Descargar APK
+[DESCARGAR](https://github.com/jairobuendia/ProyectoFinalTask4Home/blob/main/Task4Home-v1/app/app-debug.apk)
