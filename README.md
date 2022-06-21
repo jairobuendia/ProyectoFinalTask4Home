@@ -41,10 +41,11 @@ Una aplicación realizada en Android/Kotlin que consiste en gestionar tareas dom
 </div>
 
 ## :exclamation: &nbsp;Descargar APK
-:boom:[AQUÍ](https://github.com/jairobuendia/ProyectoFinalTask4Home/blob/main/app-debug.apk):boom:
+[<img height="35px" src="https://user-images.githubusercontent.com/55530657/174787680-ac2f37c5-0879-43a1-9f47-43dc05ce6b04.png">](https://github.com/jairobuendia/ProyectoFinalTask4Home/blob/main/app-debug.apk)
+
 <br>
 ## :pager: &nbsp;Presentación
-[LINK](https://github.com/jairobuendia/ProyectoFinalTask4Home)&nbsp;:bulb:
+:bulb:&nbsp;[LINK](https://github.com/jairobuendia/ProyectoFinalTask4Home)&nbsp;:bulb:
 <br>
 ## :books: &nbsp;Bibliografía
 :point_right:&nbsp;[Android](https://developer.android.com/)
