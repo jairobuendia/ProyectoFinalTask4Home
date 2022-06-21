@@ -48,13 +48,17 @@ Una aplicación realizada en Android/Kotlin que consiste en gestionar tareas dom
 <br>
 ## :books: &nbsp;Bibliografía
 :point_right:&nbsp;[Android](https://developer.android.com/)
+<br>
 :point_right:&nbsp;[Firebase](https://firebase.google.com/docs)
+<br>
 :point_right:&nbsp;[YoutubeMoureDev](https://www.youtube.com/c/MouredevApps)
+<br>
 :point_right:&nbsp;[Youtube](https://www.youtube.com/results?search_query=firebase+recyclerview+android+studio)
+<br>
 :point_right:&nbsp;[StackOverlow](https://stackoverflow.com/)
 <br>
 ## :movie_camera: &nbsp;Vídeo explicativo
-<img height="50px" src="https://user-images.githubusercontent.com/55530657/174786115-5b75b9ee-4b2a-4d56-b9ec-4a0a525daa70.png"[Vídeo](https://youtu.be/HCuQZaJhdMQ)
+<img height="50px" src="https://user-images.githubusercontent.com/55530657/174786115-5b75b9ee-4b2a-4d56-b9ec-4a0a525daa70.png">[Vídeo](https://youtu.be/HCuQZaJhdMQ)
 
 
 
