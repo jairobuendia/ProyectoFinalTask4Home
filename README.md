@@ -45,7 +45,7 @@ Una aplicación realizada en Android/Kotlin que consiste en gestionar tareas dom
 <br>
 
 ## :pager: &nbsp;Presentación
-:bulb:&nbsp;[LINK](https://github.com/jairobuendia/ProyectoFinalTask4Home)&nbsp;:bulb:
+:bulb:&nbsp;[LINK](https://github.com/jairobuendia/ProyectoFinalTask4Home/blob/main/Task4HomePresentacion.pdf)&nbsp;:bulb:
 <br>
 ## :books: &nbsp;Bibliografía
 :point_right:&nbsp;[Android](https://developer.android.com/)
